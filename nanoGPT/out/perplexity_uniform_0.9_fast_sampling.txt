@@ -1,0 +1,24 @@
+
+==============================================================
+2024-01-08 09:22:57.622503
+Configuration used: 
+GPTConfig(block_size=1024, vocab_size=50257, n_layer=12, n_head=12, n_embd=768, dropout=0.0, bias=True, attention_method='uniform', number_of_terms_exponent=0.9)
+Dataset used: nanoGPT/data/wikitext-2-v1/wiki.test.tokens with dataset ratio 0.2 and offset 0.4
+==============================================================
+# of tokens processed: 1024, tot_log_probs = -3866.371992084343, perplexity: 43.63038880543151
+==============================================================
+# of tokens processed: 2048, tot_log_probs = -7422.787014631755, perplexity: 37.5025046715837
+==============================================================
+2024-01-08 09:33:04.152863
+Configuration used: 
+GPTConfig(block_size=1024, vocab_size=50257, n_layer=12, n_head=12, n_embd=768, dropout=0.0, bias=True, attention_method='uniform', number_of_terms_exponent=0.9)
+Dataset used: nanoGPT/data/wikitext-2-v1/wiki.test.tokens with dataset ratio 0.001 and offset 0.4
+==============================================================
+# of tokens processed: 1024, tot_log_probs = -3866.371992084343, perplexity: 43.63038880543151
+==============================================================
+# of tokens processed: 1024, tot_log_probs = -3866.371992084343, perplexity: 43.63038880543151
+==============================================================
+2024-01-08 09:35:16.040932
+Configuration used: 
+GPTConfig(block_size=1024, vocab_size=50257, n_layer=12, n_head=12, n_embd=768, dropout=0.0, bias=True, attention_method='uniform', number_of_terms_exponent=0.9)
+Dataset used: nanoGPT/data/wikitext-2-v1/wiki.test.tokens with dataset ratio 0.001 and offset 0.4
